@@ -1,14 +1,14 @@
 # FAIRFinds2019
 Datasets, code scripts, and some example files from a brief presentation given at Library 2.019 Open Data Presentation, June 5 2019. The Presentation was FAIR Finds, applying the Fair Principles to a project resulting in data visualizations for HABs in NYS.
 
-## Library 2.019?
+### Library 2.019?
 "The future of libraries in the digital age" educational opportunity for data enthusiasts, library professionals, information professionals, etc. Find out more : https://www.library20.com/open-data 
 
-## FAIR principles?
+### FAIR principles?
 FAIR is an acronym to provide guidelines in sharing data that is truly accessible and re-usable. Find out more here: https://www.go-fair.org/fair-principles/
 
 
-## HABS?
+### HABS?
 This project was about getting data from the New York State (USA) Department of Envionrmental Conservation about Harmful Algal Blooms (HABs) on waterbodies across the state. I found the data, but it didn't meet all of the FAIR guidelines at first. This presentation explores how this is a case study of getting opendata into 'FAIR' shape. :)
 
 # Materials
